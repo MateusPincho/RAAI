@@ -17,3 +17,4 @@ Este projeto tem por objetivo desenvolver e validar um modelo de robô móvel au
 3. Ser capaz de navegar de forma autônoma por um ambiente fabril, passível de mudanças, e gerar um mapa 3D do ambiente à sua volta.
 4. Salvar as leituras dos sensores e, em caso de alterações e anomalias detectadas, enviar alertas aos operadores das fábricas.
 5. Gerar relatórios e análises baseadas nas leituras dos sensores, sendo capaz de interagir com os operadores através de uma Interface Humano-Máquina.
+
