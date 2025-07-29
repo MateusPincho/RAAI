@@ -18,3 +18,6 @@ Este projeto tem por objetivo desenvolver e validar um modelo de robô móvel au
 - Ser capaz de navegar de forma autônoma por um ambiente fabril, passível de mudanças, e gerar um mapa 3D do ambiente à sua volta.
 - Salvar as leituras dos sensores e, em caso de alterações e anomalias detectadas, enviar alertas aos operadores das fábricas.
 - Gerar relatórios e análises baseadas nas leituras dos sensores, sendo capaz de interagir com os operadores através de uma Interface Humano-Máquina.
+
+## Wiki do Projeto
+Para mais informações sobre o projeto e sua arquitetura, acesse a [Wiki do Projeto](https://github.com/MateusPincho/RAAI/wiki)
